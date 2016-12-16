@@ -1,0 +1,17 @@
+GetProgrammingLanguage  {ProgrammingLanguage}
+GetProgrammingLanguage  in {ProgrammingLanguage}
+GetProgrammingLanguage  comment in {ProgrammingLanguage}
+GetProgrammingLanguage  a comment in {ProgrammingLanguage}
+GetProgrammingLanguage  comment for {ProgrammingLanguage}
+GetProgrammingLanguage  a comment for {ProgrammingLanguage}
+GetProgrammingLanguage  comment out {ProgrammingLanguage}
+GetProgrammingLanguage  please comment out {ProgrammingLanguage}
+GetProgrammingLanguage  what is a comment in {ProgrammingLanguage}
+GetProgrammingLanguage  how do you make a comment in {ProgrammingLanguage}
+GetProgrammingLanguage  how do you comment in {ProgrammingLanguage}
+GetProgrammingLanguage  how do I comment in {ProgrammingLanguage}
+GetProgrammingLanguage  how can I comment in {ProgrammingLanguage}
+GetProgrammingLanguage  how to comment in {ProgrammingLanguage}
+GetProgrammingLanguage  how to comment out {ProgrammingLanguage}
+GetProgrammingLanguage  I want to comment in {ProgrammingLanguage}
+GetProgrammingLanguage  I want to comment out {ProgrammingLanguage}

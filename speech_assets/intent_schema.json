@@ -1,0 +1,22 @@
+{
+    "intents": [
+        {
+            "intent": "GetProgrammingLanguage",
+            "slots": [
+              {
+                "name": "ProgrammingLanguage",
+                "type": "LIST_OF_LANGUAGES"
+              }
+            ]
+        },
+        {
+            "intent": "AMAZON.HelpIntent"
+        },
+        {
+            "intent": "AMAZON.StopIntent"
+        },
+        {
+            "intent": "AMAZON.CancelIntent"
+        }
+    ]
+}
