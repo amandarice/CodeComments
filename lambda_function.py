@@ -25,13 +25,13 @@ def get_animal_sound_handler(request):
     with open("comments.txt") as f:
         for line in f:
             newline = line.strip()
-            key = newline[:newline.find(' : ')]
-            val = newline[newline.find(' : ')+1:]
+            key = newline[:newline.find(': ')]
+            val = newline[newline.find(': ')+2:]
             comments[key]=val
     if language in comments:
-        return alexa.create_response(message=comments[language] + ".", end_session=True)
+        return alexa.create_response(message="For " + language + ", " + comments[language] + ".", end_session=True)
     else:
-        return alexa.create_response(message="We don't know how to comment in " + language + ". Please try again.", end_session=False)
+        return alexa.create_response(message="We don't know how to comment in that language. Please try again.", end_session=False)
 
 @alexa.intent_handler("AMAZON.HelpIntent")
 def help_intent_handler(request):

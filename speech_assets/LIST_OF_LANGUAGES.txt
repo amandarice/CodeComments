@@ -1,16 +1,21 @@
+C
 c
 c plus plus
 java
-javascript
+java script
 scala
+scall a
+scale a
 go
 sass
 python
+R
 r
-sas
+SAS
+CSS
 css
-html
-php
+HTML
+PHP
 react
 react JS
 react JSX
