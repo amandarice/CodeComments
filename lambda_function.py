@@ -25,8 +25,8 @@ def get_animal_sound_handler(request):
     with open("comments.txt") as f:
         for line in f:
             newline = line.strip()
-            key = newline[:newline.find(' ')]
-            val = newline[newline.find(' ')+1:]
+            key = newline[:newline.find(' : ')]
+            val = newline[newline.find(' : ')+1:]
             comments[key]=val
     if language in comments:
         return alexa.create_response(message=comments[language] + ".", end_session=True)

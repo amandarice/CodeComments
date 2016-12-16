@@ -1,5 +1,5 @@
 c
-see plus plus
+c plus plus
 java
 javascript
 scala
@@ -12,10 +12,10 @@ css
 html
 php
 react
-react jay ess
-react jay ess ex
-jay ess ex
+react JS
+react JSX
+JSX
 angular
-angular jay ess
+angular JS
 assembly
 assembly language

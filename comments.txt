@@ -1,21 +1,21 @@
-c a comment starts with a slash asterisk and ends with a asterisk slash
-seeplusplus for single line comments, use two slashes at the beginning of each line of code. for multi-line comments, use a slash asterisk to start the comment and an asterisk slash to end the comment
-java for single line comments, use two slashes at the beginning of each line of code. for multi-line comments, use a slash asterisk to start the comment and an asterisk slash to end the comment
-javascript for single line comments, use two slashes at the beginning of each line of code. for multi-line comments, use a slash asterisk to start the comment and an asterisk slash to end the comment
-scala for single line comments, use two slashes at the beginning of each line of code. for multi-line comments, use a slash asterisk to start the comment and an asterisk slash to end the comment
-go for single line comments, use two slashes at the beginning of each line of code. for multi-line comments, use a slash asterisk to start the comment and an asterisk slash to end the comment
-sass for single line comments, use two slashes at the beginning of each line of code. for multi-line comments, use a slash asterisk to start the comment and an asterisk slash to end the comment
-python just use the hash character at the beginning of the comment for each line of code
-r just use the hash character at the beginning of the comment for each line of code
-sas just use the hash character at the beginning of the comment for each line of code
-css use a slash asterisk to start the comment and an asterisk slash to end the comment
-html the opening characters are <!-- and the closing characters are -->
-php for single line comments, use two slashes or a hash at the beginning of each line of code. for multi-line comments, use a slash asterisk to start the comment and an asterisk slash to end the comment
-react in react jsx you need to open with a slash asterisk and close with an asterisk slash, all wrapped in curly braces to invoke javascript
-reactjayess in react jsx you need to open with a slash asterisk and close with an asterisk slash, all wrapped in curly braces to invoke javascript
-reactjayessex in react jsx you need to open with a slash asterisk and close with an asterisk slash, all wrapped in curly braces to invoke javascript
-jayessex in react jsx you need to open with a slash asterisk and close with an asterisk slash, all wrapped in curly braces to invoke javascript
-angular angular does not have a special syntax for comments
-angularjayess angular j s does not have a special syntax for comments
-assembly comment begins with a semicolon and can appear on a line by itself or on the same line along with an instruction
-assemblylanguage comment begins with a semicolon and can appear on a line by itself or on the same line along with an instruction
+c : a comment starts with a slash asterisk and ends with a asterisk slash
+c plus plus : for single line comments, use two slashes at the beginning of each line of code. for multi-line comments, use a slash asterisk to start the comment and an asterisk slash to end the comment
+java : for single line comments, use two slashes at the beginning of each line of code. for multi-line comments, use a slash asterisk to start the comment and an asterisk slash to end the comment
+javascript : for single line comments, use two slashes at the beginning of each line of code. for multi-line comments, use a slash asterisk to start the comment and an asterisk slash to end the comment
+scala : for single line comments, use two slashes at the beginning of each line of code. for multi-line comments, use a slash asterisk to start the comment and an asterisk slash to end the comment
+go  : for single line comments, use two slashes at the beginning of each line of code. for multi-line comments, use a slash asterisk to start the comment and an asterisk slash to end the comment
+sass : for single line comments, use two slashes at the beginning of each line of code. for multi-line comments, use a slash asterisk to start the comment and an asterisk slash to end the comment
+python : just use the hash character at the beginning of the comment for each line of code
+r : just use the hash character at the beginning of the comment for each line of code
+sas : just use the hash character at the beginning of the comment for each line of code
+css : use a slash asterisk to start the comment and an asterisk slash to end the comment
+html : the opening characters are <!-- and the closing characters are -->
+php : for single line comments, use two slashes or a hash at the beginning of each line of code. for multi-line comments, use a slash asterisk to start the comment and an asterisk slash to end the comment
+react : in react jsx you need to open with a slash asterisk and close with an asterisk slash, all wrapped in curly braces to invoke javascript
+react JS : in react jsx you need to open with a slash asterisk and close with an asterisk slash, all wrapped in curly braces to invoke javascript
+react JSX : in react jsx you need to open with a slash asterisk and close with an asterisk slash, all wrapped in curly braces to invoke javascript
+JSX : in react jsx you need to open with a slash asterisk and close with an asterisk slash, all wrapped in curly braces to invoke javascript
+angular : angular does not have a special syntax for comments
+angular JS : angular j s does not have a special syntax for comments
+assembly : comment begins with a semicolon and can appear on a line by itself or on the same line along with an instruction
+assembly language : comment begins with a semicolon and can appear on a line by itself or on the same line along with an instruction
