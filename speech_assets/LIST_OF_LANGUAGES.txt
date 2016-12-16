@@ -3,9 +3,6 @@ c
 c plus plus
 java
 java script
-scala
-scall a
-scale a
 go
 sass
 python
@@ -25,15 +22,11 @@ angular JS
 assembly
 assembly language
 bash
-linux
 DOS
 doss
 docker
 fortran
-f sharp
-F sharp
-git ignore
-get ignore
+git
 hive
 haskell
 SQL
@@ -42,8 +35,8 @@ JSON
 lisp
 matlab
 makefile
-make file
 prolog
 prologue
 ruby
-visual basic
+VB
+vb

@@ -3,9 +3,6 @@ c: a comment starts with a slash asterisk and ends with a asterisk slash
 see plus plus: for single line comments, use two slashes at the beginning of the comment for each line of code. for multi-line comments, use a slash asterisk to start the comment and an asterisk slash to end the comment
 java: for single line comments, use two slashes at the beginning of the comment for each line of code. for multi-line comments, use a slash asterisk to start the comment and an asterisk slash to end the comment
 java script: for single line comments, use two slashes at the beginning of the comment for each line of code. for multi-line comments, use a slash asterisk to start the comment and an asterisk slash to end the comment
-scala: for single line comments, use two slashes at the beginning of the comment for each line of code. for multi-line comments, use a slash asterisk to start the comment and an asterisk slash to end the comment
-scall a: for single line comments, use two slashes at the beginning of the comment for each line of code. for multi-line comments, use a slash asterisk to start the comment and an asterisk slash to end the comment
-scale a: for single line comments, use two slashes at the beginning of the comment for each line of code. for multi-line comments, use a slash asterisk to start the comment and an asterisk slash to end the comment
 go: for single line comments, use two slashes at the beginning of the comment for each line of code. for multi-line comments, use a slash asterisk to start the comment and an asterisk slash to end the comment
 sass: for single line comments, use two slashes at the beginning of the comment for each line of code. for multi-line comments, use a slash asterisk to start the comment and an asterisk slash to end the comment
 python: just use the hash character at the beginning of the comment for each line of code
@@ -25,15 +22,11 @@ angular JS: there is no special syntax for comments
 assembly: comments begin with a semicolon and can appear on a line by itself or on the same line along with an instruction
 assembly language: comments begin with a semicolon and can appear on a line by itself or on the same line along with an instruction
 bash: just use the hash character at the beginning of the comment for each line of code
-linux: just use the hash character at the beginning of the comment for each line of code
 DOS: use REM at the beginning of the comment for each line of code
 doss: use REM at the beginning of the comment for each line of code
 docker: lines that begin with a hash are treated as comments
 fortran: use an exclamation mark at the beginning of the comment for each line of code
-f sharp: for single line comments, use two slashes at the beginning of each line of code. for multi-line comments, use an open parenthesis, asterisk to open a comment and asterisk, closed parenthesis to close a comment
-F sharp: for single line comments, use two slashes at the beginning of each line of code. for multi-line comments, use an open parenthesis, asterisk to open a comment and asterisk, closed parenthesis to close a comment
-git ignore: blank lines or lines starting with a hash are ignored
-get ignore: blank lines or lines starting with a hash are ignored
+git: blank lines or lines starting with a hash in the ingore file are ignored
 hive: lines that begin with a dash, dash are treated as comments
 haskell: use two dashes at the beginning of the comment for each line of code
 SQL: for single line comments, use two dashes at the beginning of the comment for each line of code. for multi-line comments, use a slash asterisk to start the comment and an asterisk slash to end the comment
@@ -42,8 +35,8 @@ JSON: there are no explicit comments, but you could have a designated data eleme
 lisp: comments that start with a single semicolon should all be aligned to the same column on the right of the source code. Comments that start with two semicolons should be aligned to the same level of indentation as the code. Two semicolons are used to comment outside of functions. Comments that start with three semicolons should start at the left margin. Comments that start with four semicolons should be aligned to the left margin and are used for headings of major sections of a program. Generally speaking, the capital M dash semicolon, called the comment-dwim command, automatically starts a comment of the appropriate type or indents an existing comment to the right place, depending on the number of semicolons
 matlab: use a percent sign at the beginning of the comment for each line of code
 makefile: use the hash character at the beginning of the comment for each line of code
-make file: use the hash character at the beginning of the comment for each line of code
 prolog: for single line comments, use the percent sign at the beginning of the comment for each line of code. for multi-line comments, use a slash asterisk to start the comment and an asterisk slash to end the comment
 prologue: for single line comments, use the percent sign at the beginning of the comment for each line of code. for multi-line comments, use a slash asterisk to start the comment and an asterisk slash to end the comment
 ruby: for single line comments, use the hash character at the beginning of the comment for each line of code. for multi-line comments, use the equal sign, begin start the comment and the equal sign, end to end the comment
-visual basic: use a single quote or REM at the beginning of the comment for each line of code
+VB: also called visual basic, use a single quote or REM at the beginning of the comment for each line of code
+vb: also called visual basic, use a single quote or REM at the beginning of the comment for each line of code
