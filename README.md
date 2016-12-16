@@ -1,6 +1,6 @@
 # CodeComments
 
-CodeComments is an Alexa skill that provides provides how to comment in a user-supplied programming language.
+CodeComments is an Alexa skill that provides an explanation of how to comment in a user-supplied programming language.
 
 Sample Interaction:
 
