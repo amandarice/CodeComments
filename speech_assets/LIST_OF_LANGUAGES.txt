@@ -24,3 +24,33 @@ angular
 angular JS
 assembly
 assembly language
+bash
+linux
+DOS
+doss
+docker
+docker file
+fortran
+four tran
+4 tran
+f sharp
+f #
+F sharp
+F #
+git ignore
+get ignore
+hive
+haskell
+SQL
+sequel
+JSON
+jay son
+lisp
+matlab
+matt lab
+make file
+prolog
+pro log
+prologue
+ruby
+visual basic

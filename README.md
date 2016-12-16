@@ -7,7 +7,7 @@ Sample Interaction:
 * Your Question: "Alexa, ask Code Comments how do I comment in Python?"
 * Alexa's Response: "Just use the hash character at the beginning of the comment for each line of code."
 
-This skill is primarily intended for programmers needing a quick learning session or reminder on how to comment in a certain language. There are currently responses for 16 programming languages available.
+This skill is primarily intended for programmers needing a quick learning session or reminder on how to comment in a certain language. There are currently responses for 32 programming languages available.
 
 ### Project Format
 
