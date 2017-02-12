@@ -42,7 +42,7 @@ Namely:
 * Enter a Name and Description for the function.
 * Select the language you want to use for the Runtime (e.g. Python).
 
-  >Note: you cannot change the language for a function once it is saved.
+  >Note: You cannot change the language for a function once it is saved.
 
 * Select the Role for the function. This defines the AWS resources the function can access.
   * To use an existing role, select the role under Use existing role.
